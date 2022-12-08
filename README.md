@@ -1,5 +1,5 @@
 <h1>Welcome, my good wayfarer 🤠</h1>
-       <h3> 👋 Greetings, I’m Vladislav</h3>
+       <h3> 👋 Greetings, I’m Vladyslav</h3>
 
 - 👀 I’m interested ***in coding📜 and doing magic🌈🌠***
 -------------------------------------------------------
