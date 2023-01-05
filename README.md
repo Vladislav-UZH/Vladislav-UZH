@@ -10,7 +10,7 @@
 - 👓 I’m looking ***for new challenges, projects and my dream company💼***
 
 <h2>My stack:</h2>
-<h4>HTML & CSS, SCSS, JavaScript, GitHub, GIT</h4>
+<h4>HTML & CSS, SCSS, JavaScript, REACT, WebPack, Parcel GitHub, GIT</h4>
 
 <!---
 Vladislav-UZH/Vladislav-UZH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
