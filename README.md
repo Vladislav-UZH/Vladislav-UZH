@@ -10,7 +10,7 @@
 - 👓 I’m looking ***for new challenges, projects and my dream company💼***
 
 <h2>My stack:</h2>
-<h4> Next.js, React, Styled Components, Redux, Zustand, TypeScript, JavaScript, GIT, Node.js, Express, MongoDB, HTML&CSS, SCSS, WebPack, Parcel</h4>
+<h4> Nuxt, Vue.js, Vuex, UNIT, Component Tests,  Styled Components, TypeScript, JavaScript, GIT, Node.js, Express, MongoDB, HTML&CSS, SCSS, WebPack,</h4>
 
 <!---
 Vladislav-UZH/Vladislav-UZH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
